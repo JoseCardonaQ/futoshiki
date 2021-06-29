@@ -1562,7 +1562,7 @@ def jugar_futoshiki(cargado):
                         ,state = 'disabled',disabledforeground = 'black',command = lambda: activar_tile(lab_4_4))
     lab_4_4.place(x=580, y=610)
 
-    # Se guardan todos los labels en una lista, esta contendrá cada uno de ellos divididos en columnas y filas
+    # Se guardan todos los botones en una lista, esta contendrá cada uno de ellos divididos en columnas y filas
     tiles = [[lab_0_0,lab_0_1,lab_0_2,lab_0_3,lab_0_4], # Fila 1
            [lab_1_0,lab_1_1,lab_1_2,lab_1_3,lab_1_4], # Fila 2
            [lab_2_0,lab_2_1,lab_2_2,lab_2_3,lab_2_4], # Fila 3
