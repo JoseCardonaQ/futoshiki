@@ -3,7 +3,7 @@
 # José Ricardo Cardona Quesada
 
 # FUTOSHIKI
-print('hola Usuario')
+
 #-----------------------------------------------------------------------------------------------------------------------
 # Librerías Utilizadas
 import os
